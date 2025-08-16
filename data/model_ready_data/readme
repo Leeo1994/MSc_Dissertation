@@ -1,0 +1,9 @@
+Data that is already processed and ready for model2.
+
+Data processed by statemachinereal.py
+Data split by #reorganize data.py
+Data split 70-15-15 across train/val/test
+Includes both LED ON and LED OFF samples (140-30-30 total files per graph type)
+All splits (train/val/test) contain ALL letters A-J
+Undefined letters beyond A-J filtered out
+Data sorted by graph type into separate folders
